@@ -22,10 +22,7 @@
   ],
   "author": "Kateryna Gurienkova <gurienkova@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Kateryna03/MERN/issues"
-  },
-  "homepage": "https://github.com/Kateryna03/MERN#readme",
+  "bugs": {},
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.3.6",
