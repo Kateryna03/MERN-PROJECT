@@ -12,10 +12,7 @@
     "client:build": "npm run build --prefix client",
     "dev": "cross-env NODE_ENV=development currently \"npm run server\" \"npm run client\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kateryna03/MERN.git"
-  },
+  "repository": {},
   "keywords": [
     "mern",
     "react"
